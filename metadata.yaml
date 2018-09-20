@@ -1,0 +1,25 @@
+_repo: Principia-Ethica_53430
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, G. E. (George Edward)
+    alias: Moore, George Edward
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '45722'
+    url: http://www.gutenberg.org/2009/agents/45722
+description: ''
+gutenberg_issued: '2016-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- GITenberg
+title: Principia Ethica
+url: http://www.gutenberg.org/ebooks/53430
