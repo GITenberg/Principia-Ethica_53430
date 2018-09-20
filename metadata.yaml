@@ -1,5 +1,8 @@
 _repo: Principia-Ethica_53430
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53430-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, G. E. (George Edward)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45722'
     url: http://www.gutenberg.org/2009/agents/45722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53430#Principia-Ethica
 gutenberg_issued: '2016-11-02'
 gutenberg_type: Text
 identifiers:
